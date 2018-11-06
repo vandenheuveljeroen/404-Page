@@ -1,1 +1,1 @@
-[404-Page](https://vandenheuveljeroen.github.io/404-Page.html)
+[404-Page](https://vandenheuveljeroen.github.io/404-Page/)
